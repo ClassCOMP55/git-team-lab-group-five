@@ -1,7 +1,9 @@
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
-
+//i'm color blind//
+//lucas is a bully//
+//i hate him//
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	private static final String robotname = "robot.png";
