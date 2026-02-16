@@ -1,4 +1,5 @@
 //comment on top of java file
+//second comment
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
