@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage(robotImage, 200, 100);
 		add(robot);
-		GLabel label = new GLabel("We are great guys", 200, 400);
+		GLabel label = new GLabel("We will pass", 200, 400);
 		add(label);
 	}
 	
