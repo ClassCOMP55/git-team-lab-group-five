@@ -1,3 +1,4 @@
+//comment on top of java file
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
